@@ -1,0 +1,14 @@
+.git
+.venv
+**/__pycache__
+**/.pytest_cache
+**/.mypy_cache
+**/.ruff_cache
+**/.coverage
+.env
+**/.env
+backend/novatech.db
+backend/uploads
+frontend/node_modules
+frontend/dist
+frontend/.vite

@@ -1,0 +1,9 @@
+NovaTech Risk Management Report — 2025
+
+Information security risks include credential theft, misconfigured cloud storage, third-party service outages, and unauthorized access to customer data. The September NovaSecure authentication rollout increased administrator verification steps; customer onboarding friction and support volume should be monitored while the control remains in place.
+
+Business risks include customer concentration in large enterprise contracts, delayed customer acceptance that shifts revenue between months, and reliance on a small number of cloud infrastructure suppliers. Revenue timing should not be confused with lost annual contract value.
+
+Mitigations include multi-factor authentication, least-privilege access, vendor continuity reviews, incident exercises, documented change management, and customer acceptance tracking. Security exceptions require a named owner and expiration date.
+
+The report identifies risks and controls but does not quantify probability or financial loss for each risk.

@@ -1,0 +1,7 @@
+NovaTech Customer Support Policy
+
+Enterprise customers can open support requests through the service portal at any time. Severity 1 incidents affecting production availability receive a response within 30 minutes; Severity 2 incidents receive a response within four business hours. These are initial-response targets, not guaranteed resolution times.
+
+Support staff must verify the account and avoid requesting passwords, authentication codes, or full payment-card data. Suspected security incidents are escalated to the Security Response team immediately. Customers receive status updates at least every two hours during an active Severity 1 incident.
+
+Product feedback and renewal concerns are tagged in the CRM and routed to the account owner. Support does not promise roadmap delivery dates or unapproved credits.

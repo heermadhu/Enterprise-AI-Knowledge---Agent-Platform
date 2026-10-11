@@ -1,0 +1,9 @@
+NovaTech Annual Business Review — 2025
+
+NovaTech's 2025 monthly recognized revenue was January $420,000, February $430,000, March $445,000, April $450,000, May $462,000, June $480,000, July $500,000, August $525,000, September $472,000, October $535,000, November $550,000, and December $585,000. Full-year recognized revenue was $5,854,000.
+
+Quarter totals were Q1 $1,295,000, Q2 $1,392,000, Q3 $1,497,000, and Q4 $1,670,000. Each quarter total equals its three monthly revenue entries.
+
+NovaCloud generated the highest product revenue over the year. September revenue declined from August; the Q3 report records a $53,000 decrease and describes several product-level movements, onboarding friction after a NovaSecure authentication change, and a $22,000 customer acceptance delay. These observations should not be treated as definitive causal proof.
+
+Revenue is recognized in the month of the order in the operating dataset. Financial figures exclude taxes and refunds.

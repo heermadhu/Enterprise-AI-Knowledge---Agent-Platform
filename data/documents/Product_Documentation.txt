@@ -1,0 +1,9 @@
+NovaTech Product Documentation — Product overview
+
+NovaCloud provides managed cloud infrastructure, backup, and elastic compute for enterprise workloads. Its standard enterprise subscription starts at $129 per workload per month; negotiated contracts may differ.
+
+NovaSecure provides identity governance, threat monitoring, and endpoint protection. The standard subscription starts at $89 per protected user per month. The September 2025 authentication policy rollout required additional administrator verification. Customer implementation teams reported longer onboarding and elevated support contacts after that rollout.
+
+NovaAnalytics provides governed dashboards and forecasting, starting at $99 per analyst per month. NovaFlow automates approvals and cross-system workflows, starting at $79 per workflow per month. NovaAI provides governed generative AI assistants with tenant isolation and retrieval controls, starting at $149 per seat per month.
+
+List prices describe standard subscriptions and are not the same as recognized revenue in the financial reports. Enterprise discounts and order timing affect reported monthly revenue.

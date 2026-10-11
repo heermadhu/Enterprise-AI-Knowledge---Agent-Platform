@@ -1,0 +1,9 @@
+NovaTech Q1 Financial Report — 2025
+
+Reporting period: January through March 2025. All values are USD.
+
+Monthly revenue was January $420,000, February $430,000, and March $445,000. Q1 recognized revenue totaled $1,295,000. Revenue grew steadily as enterprise adoption of NovaCloud and NovaSecure expanded.
+
+Product revenue for Q1: NovaCloud $450,000; NovaSecure $279,000; NovaAnalytics $232,000; NovaFlow $184,000; NovaAI $150,000. The product figures sum to reported Q1 revenue.
+
+The quarter closed with 300 completed customer orders in the operating dataset. Revenue is recognized in the month the order is recorded. Figures exclude taxes and refunds.
